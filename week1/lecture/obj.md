@@ -12,6 +12,11 @@
     - Calendar
     - No School!!
 
+## End of class Reminders
+    - Discussion questions
+    - Assignments due
+    - Reading
+
 ## Class resources walk through
     - Discord 
     - Calendar
