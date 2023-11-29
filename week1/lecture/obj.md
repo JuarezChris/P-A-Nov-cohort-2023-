@@ -10,6 +10,7 @@
     - No recap
     - No Announcements 
     - Calendar
+    - No School!!
 
 ## Class resources walk through
     - Discord 
